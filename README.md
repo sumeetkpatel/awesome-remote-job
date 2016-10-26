@@ -311,6 +311,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   - [Appear.in](https://appear.in/) browser-based, pluginless group video calls
   - [Bluejeans](http://bluejeans.com/) video conferencing app, great for large groups & live streams
   - [Codeshare.io](http://codeshare.io/) browser-based mult-user live code sharing with optional video chat
+  - [Collusion](https://collusionapp.com/) Visual communication and collaboration in real-time.
   - [Fleep](https://fleep.io/) - Internal chat and collaboration tool for development teams
   - [Floobits](https://floobits.com) remote pair programming with screen share. Integrates with Sublime, IntelliJ, Atom and others
   - [Flowdock](https://www.flowdock.com/) browser-based group chat for teams. Integrates with GitHub, Jira, Jenkins etc
